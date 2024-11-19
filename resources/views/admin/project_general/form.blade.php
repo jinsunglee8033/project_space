@@ -24,8 +24,7 @@
     }
 
     ?>
-\
-{{--    <script src="https://cloud.tinymce.com/5/tinymce.min.js?apiKey=u0nqw6bdnhchs7yky70br91x6sl6ja1nc4hor8asbmv2ie3a"></script>--}}
+
 
 
     <style>

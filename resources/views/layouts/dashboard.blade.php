@@ -33,7 +33,6 @@
         <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/daterangepicker/daterangepicker.css" />
         <link rel="icon" type="image/png" sizes="16x16" href="{{ asset('/storage/campaigns/1/ps_v2.png') }}">
 
-{{--        <script src="https://cloud.tinymce.com/5/tinymce.min.js?apiKey=u0nqw6bdnhchs7yky70br91x6sl6ja1nc4hor8asbmv2ie3a"></script>--}}
         <script src="{{ asset('js/tinymce/tinymce.min.js') }}" referrerpolicy="origin"></script>
 
         <link href="https://projectspace.net/js/jquery-ui.css" rel="Stylesheet">
