@@ -30,3 +30,19 @@ Developed a unified platform for 1,000 employees across 40 teams, offering tailo
 - JavaScript, Bootstrap, jQuery  
 - MySQL  
 - HTML5, CSS3
+
+## Project List  
+![Screen Shot 2024-11-19 at 1 16 52 AM](https://github.com/user-attachments/assets/5fcb83b1-186b-4e16-8dbe-ffd462c3eb41)
+---
+
+## Task Overview  
+![Screen Shot 2024-11-19 at 1 17 42 AM](https://github.com/user-attachments/assets/fa352d94-e5cb-4cf2-a4b8-55a06e79902b)
+---
+
+## Task Board 
+![Screen Shot 2024-11-19 at 1 18 14 AM](https://github.com/user-attachments/assets/c7508786-839a-4380-8259-8bb68d018a2a)
+---
+
+## Task Detail 
+![Screen Shot 2024-11-19 at 1 19 38 AM](https://github.com/user-attachments/assets/17fdfc06-4ace-46cf-b602-11ee647a39c5)
+---
