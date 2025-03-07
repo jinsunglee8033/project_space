@@ -5,7 +5,7 @@
 Developed a unified platform for 1,000 employees across 40 teams, offering tailored access and project management based on team and role.
 
 ## Key Achievements  
-- **Cost Efficiency**: Reduced annual maintenance costs by over **$200,000** by consolidating team platforms into a single system.  
+- **Cost Efficiency**: Reduced annual maintenance costs by over **1M** by consolidating team platforms into a single system.  
 - **Streamlined Collaboration**: Improved team collaboration and productivity through effective system design and process standardization.  
 
 ## Responsibilities  
